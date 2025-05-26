@@ -9,9 +9,7 @@ layout: home
 
 June 26, 2025
 
-Room TBD
-
-Athens Conservatoire, Athens, Greece
+**Room TBD**, Athens Conservatoire, Athens, Greece
 
 
 ## Schedule
