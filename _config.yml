@@ -1,3 +1,5 @@
 title: Taking Stock at FAccT
 description: CRAFT session at ACM FAccT 25
 remote_theme: krrish94/sniffle-workshop
+plugins:
+  - jekyll-feed
