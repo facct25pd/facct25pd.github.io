@@ -20,3 +20,10 @@ The session will begin with a brief overview of participatory design practices t
 
 ## Schedule
 TBD
+
+## Organizers
+Shiran Dudy
+
+Yanan Long
+
+Jan Simson
