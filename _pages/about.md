@@ -4,12 +4,12 @@ title:
 permalink: /
 subtitle:
 
-profile:
-  align: top
-  image: prof_pic.jpg
-  image_full_width: true # displays the image as a full-width banner
-  image_circular: false
-  more_info: >
+# profile:
+#   align: top
+#   image: prof_pic.jpg
+#   image_full_width: true # displays the image as a full-width banner
+#   image_circular: false
+#   more_info: >
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
@@ -25,8 +25,9 @@ profile:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-# Welcome to *Taking Stock at FAccT: Insights through Participatory Design*
-**CRAFT session at ACM FAccT**
+
+<!-- # Welcome to *Taking Stock at FAccT: Insights through Participatory Design* -->
+## **CRAFT session at ACM FAccT**
 
 June 26, 2025
 15:15 - 16:15
