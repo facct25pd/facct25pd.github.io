@@ -38,3 +38,6 @@ As a relatively new venue, FAccT has brought together academics, activists, and 
 Building on prior work like [Laufer et al. (2022)](https://dl.acm.org/doi/10.1145/3531146.3533107), which analyzed FAccT’s scholarly output, this session centers around eliciting direct community input. Participants will generate statements about the conference’s role, impact, and future direction, which will be shared and voted on interactively through the [Polis](https://pol.is/) platform. While initial discussion and voting will take place during the session, the process will continue for another week via the conference Slack channel.
 
 The session will begin with a brief overview of participatory design practices to frame the value and goals of this session. In small groups, participants will surface key questions and themes about FAccT, generating seed statements to kick off broader conversations. We will aim to close with early insights from the session.
+
+## Schedule
+- **15:15 - 15:30**: Welcome and introduction to participatory design
