@@ -7,7 +7,8 @@ subtitle:
 profile:
   align: top
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_full_width: true # displays the image as a full-width banner
+  image_circular: false
   more_info: >
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
