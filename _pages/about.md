@@ -27,10 +27,11 @@ subtitle:
 
 
 <!-- # Welcome to *Taking Stock at FAccT: Insights through Participatory Design* -->
-## **CRAFT session at ACM FAccT**
+
+## **Taking Stock at FAccT: CRAFT session at ACM FAccT**
 
 June 26, 2025
-15:15 - 16:15**Amphitheatre Ioannis Despotopoulos** (1F), Athens Conservatoire, Athens, Greece
+15:15 - 16:15, **Amphitheatre Ioannis Despotopoulos** (1F), Athens Conservatoire, Athens, Greece
 
 ## Overview
 As a relatively new venue, FAccT has brought together academics, activists, and policymakers to critically interrogate the societal implications of AI/ML technologies. To reflect on how well the conference meets these goals, we are organizing a participatory session that invites attendees to surface key questions and concerns through a bottom-up process. Using methods from participatory design, the session will create space for collective reflection on experiences, expectations, and visions for FAccT.
