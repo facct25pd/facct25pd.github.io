@@ -28,7 +28,8 @@ subtitle:
 
 <!-- # Welcome to *Taking Stock at FAccT: Insights through Participatory Design* -->
 
-## **Taking Stock at FAccT: CRAFT session at ACM FAccT**
+# **Taking Stock at FAccT: Insights through Participatory Design*
+## CRAFT session at ACM FAccT**
 
 June 26, 2025
 15:15 - 16:15, **Amphitheatre Ioannis Despotopoulos** (1F), Athens Conservatoire, Athens, Greece
