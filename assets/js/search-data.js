@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-taking-stock-at-facct-insights-through-participatory-design",
-    title: "Taking Stock at FAccT: Insights through Participatory Design",
+    id: "nav-acm-facct-2025",
+    title: "ACM FAccT 2025",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
