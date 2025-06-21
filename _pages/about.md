@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "Taking Stock at FAccT: Insights through Participatory Design" 
+title: ACM FAccT 2025
 permalink: /
 subtitle:
 
