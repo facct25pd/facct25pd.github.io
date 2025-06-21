@@ -4,12 +4,12 @@ title: "Taking Stock at FAccT: Insights through Participatory Design"
 permalink: /
 subtitle:
 
-# profile:
-#   align: top
-#   image: prof_pic.jpg
-#   image_full_width: true # displays the image as a full-width banner
-#   image_circular: false
-#   more_info: >
+profile:
+  align: top
+  image: facct_img.png
+  image_full_width: true # displays the image as a full-width banner
+  image_circular: false
+  more_info: >
 
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 # social: true # includes social icons at the bottom of the page
