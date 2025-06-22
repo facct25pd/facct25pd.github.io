@@ -28,10 +28,14 @@ profile:
 
 <!-- # Welcome to *Taking Stock at FAccT: Insights through Participatory Design* -->
 
-# **Taking Stock at FAccT: Insights through Participatory Design**
+<!-- # **Taking Stock at FAccT: Insights through Participatory Design** -->
 ## *CRAFT session at ACM FAccT*
 
-June 26, 15:15 - 16:15, **Amphitheatre Ioannis Despotopoulos** (1F), Athens Conservatoire, Athens, Greece
+**June 26, 2025**
+- CRAFT session: 15:15 - 16:15/16:45, Amphitheatre Ioannis Despotopoulos (1F), Athens Conservatoire, Athens, Greece
+- Social: 18:30 - 20:30, *TBD*
+
+
 
 ## Overview
 As a relatively new venue, FAccT has brought together academics, activists, and policymakers to critically interrogate the societal implications of AI/ML technologies. To reflect on how well the conference meets these goals, we are organizing a participatory session that invites attendees to surface key questions and concerns through a bottom-up process. Using methods from participatory design, the session will create space for collective reflection on experiences, expectations, and visions for FAccT.
@@ -46,5 +50,16 @@ To use Polis effectively, it is highly recommended to bring a laptop or similar 
 ## Outline
 - Welcome and introduction to participatory design
 - Breakout groups for seed statements
-- Participation on Pol.is
+- Participation on Polis
 - Preliminary Results
+
+# Organizers
+Shiran Dudy
+
+
+Yanan Long
+
+
+Jan Simson
+
+
