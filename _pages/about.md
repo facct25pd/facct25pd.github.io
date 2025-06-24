@@ -55,12 +55,12 @@ To use Polis effectively, it is highly recommended to bring a laptop or similar 
 - Preliminary Results (10 min)
 
 # Organizers
-Shiran Dudy
+Shiran Dudy (Northeastern University)
 
 
-Yanan Long
+Yanan Long (Queer in AI & University of Chicago)
 
 
-Jan Simson
+Jan Simson (LMU Munich)
 
 
