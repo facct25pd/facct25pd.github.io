@@ -45,13 +45,14 @@ Building on prior work like [Laufer et al. (2022)](https://dl.acm.org/doi/10.114
 The session will begin with a brief overview of participatory design practices to frame the value and goals of this session. In small groups, participants will surface key questions and themes about FAccT, generating seed statements to kick off broader conversations. We will aim to close with early insights from the session.
 
 ## Participation
-To use Polis effectively, it is highly recommended to bring a laptop or similar electronic devices with typing functionality.
+To use Polis effectively, it is highly recommended to bring a laptop or similar electronic devices with typing functionality. Additionally, some activities may involve writing on paper. We will provide writing pads, but please remember to bring the pen included in your FAccT tote bag.
 
 ## Outline
-- Welcome and introduction to participatory design
-- Breakout groups for seed statements
-- Participation on Polis
-- Preliminary Results
+- Welcome and introduction to participatory design (10 min)
+- Breakout groups for seed statements (15 min)
+- Break (5 min)
+- Participation on Polis (15 min)
+- Preliminary Results (10 min)
 
 # Organizers
 Shiran Dudy
