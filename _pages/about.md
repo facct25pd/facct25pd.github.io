@@ -35,7 +35,7 @@ profile:
 - CRAFT session: 15:15 - 16:15/16:45, Amphitheatre Ioannis Despotopoulos (1F), Athens Conservatoire, Athens, Greece
 - Social: 18:30 - 20:30, *OROSCOPO restaurant*, Antinoros 42-44, Athina 161 21 (12 minutes on foot from the Conservatoire)
 
-Sign up here: https://forms.gle/boHoqYHpxjsw7VG68
+**Sign up here**: https://forms.gle/boHoqYHpxjsw7VG68
 
 ## Overview
 As a relatively new venue, FAccT has brought together academics, activists, and policymakers to critically interrogate the societal implications of AI/ML technologies. To reflect on how well the conference meets these goals, we are organizing a participatory session that invites attendees to surface key questions and concerns through a bottom-up process. Using methods from participatory design, the session will create space for collective reflection on experiences, expectations, and visions for FAccT.
