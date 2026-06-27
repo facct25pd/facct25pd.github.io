@@ -30,12 +30,22 @@ _styles: |
     border-radius: 8px;
     color: var(--global-bg-color);
     display: flex;
+    gap: 0.7rem;
     font-size: 1.1rem;
     font-weight: 700;
     justify-content: center;
     min-height: 4.25rem;
     padding: 0.9rem 1rem;
     text-align: center;
+  }
+
+  .project-resource-button img {
+    background: rgba(255, 255, 255, 0.92);
+    border-radius: 6px;
+    height: 2.25rem;
+    object-fit: contain;
+    padding: 0.3rem;
+    width: 2.25rem;
   }
 
   .project-resource-button:hover {
@@ -68,9 +78,18 @@ _styles: |
 </div>
 
 <div class="project-resource-buttons" aria-label="Project resources">
-  <a class="project-resource-button" href="https://dl.acm.org/doi/10.1145/3805689.3812270">Paper</a>
-  <a class="project-resource-button" href="https://github.com/facct25pd/taking_stock_at_facct">Code</a>
-  <span class="project-resource-button disabled" aria-disabled="true" title="Report PDF coming soon">Report</span>
+  <a class="project-resource-button" href="https://dl.acm.org/doi/10.1145/3805689.3812270">
+    <img src="{{ '/assets/img/logos/acm.svg' | relative_url }}" alt="" aria-hidden="true">
+    <span>Paper</span>
+  </a>
+  <a class="project-resource-button" href="https://github.com/facct25pd/taking_stock_at_facct">
+    <img src="{{ '/assets/img/logos/github.svg' | relative_url }}" alt="" aria-hidden="true">
+    <span>Code</span>
+  </a>
+  <span class="project-resource-button disabled" aria-disabled="true" title="Report PDF coming soon">
+    <img src="{{ '/assets/img/logos/pdf.svg' | relative_url }}" alt="" aria-hidden="true">
+    <span>Report</span>
+  </span>
 </div>
 
 ## Abstract
