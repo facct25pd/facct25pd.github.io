@@ -3,13 +3,20 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-acm-facct-2025",
-    title: "ACM FAccT 2025",
+    id: "nav-taking-stock-at-facct",
+    title: ""Taking Stock at FAccT"",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "books-the-godfather",
+  },{id: "nav-craft-session",
+          title: "CRAFT Session",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/craft-session/";
+          },
+        },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
